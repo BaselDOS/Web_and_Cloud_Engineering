@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(174, 202, 216);
+    background-color: #eef3f8;
     margin: 20px;
 }
 
@@ -10,6 +10,7 @@ h1{
 p{
     font-size: 14px;
     line-height: 1.5;
+    width: 700px;
 }
 
 .first_word{
@@ -19,4 +20,12 @@ p{
 
 a:hover{
     color:blue
+}
+
+li{
+    margin-bottom: 10px;
+}
+
+i{
+    margin-right: 5px;
 }
