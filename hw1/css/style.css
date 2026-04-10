@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(174, 202, 216);
+    margin: 20px;
+}
+
+h1{
+    color: black;
+}
+
+p{
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.first_word{
+    font-weight: bold;
+    font-size: 14px;
+}
+
+a:hover{
+    color:blue
+}
